@@ -36,10 +36,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Communication theory and systems
+    - course: PhD in Communication theory & systems
       institution: University of California, San Diego
-      year: 2027
-    - course: MS in Communication theory and systems
+      year: 2027-2021
+    - course: MS in Communication theory & systems
       institution: University of California, San Diego
       year: 2023
     - course: BSc in Information engineering
