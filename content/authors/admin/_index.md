@@ -93,7 +93,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: ziz050@ucsd.edu
+    link: mailto:ziz050@ucsd.edu
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?user=ydmUZKQAAAAJ&hl=en
