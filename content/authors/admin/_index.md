@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD student at UCSD
+role: PhD student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -25,26 +25,26 @@ organizations:
     url: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include error correcting codes, machine learning and (DNA) storage systems.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Error correcting codes, Polar codes, LDPC codes
+  - Storage systems, DNA storage systems
+  - Machine learning for coding and storage systems
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Communication theory and systems
+      institution: University of California, San Diego
+      year: 2027
+    - course: MS in Communication theory and systems
+      institution: University of California, San Diego
+      year: 2023
+    - course: BSc in Information engineering
+      institution: Xi'an Jiaotong University
+      year: 2021
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
