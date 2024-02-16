@@ -49,42 +49,42 @@ education:
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
-  - name: Technical
+  - name: Programming
     items:
       - name: Matlab
         description: ''
         percent: 100
         icon: 
         icon_pack:
-      - name: Data Science
+      - name: C++
         description: ''
-        percent: 100
-        icon: chart-line
-        icon_pack: fas
-      - name: SQL
+        percent: 75
+        icon:
+        icon_pack:
+      - name: Python
         description: ''
-        percent: 40
-        icon: database
-        icon_pack: fas
+        percent: 50
+        icon:
+        icon_pack:
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
+      - name: Videogames
         description: ''
         percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
+        icon: 
+        icon_pack: 
+      - name: Basketball
         description: ''
-        percent: 80
-        icon: camera-retro
-        icon_pack: fas
+        percent: 75
+        icon:
+        icon_pack:
+      - name: Other sports
+        description: ''
+        percent: 50
+        icon: 
+        icon_pack: 
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
