@@ -107,7 +107,7 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 
-# Highlight the author in author lists? (true/false)
+# Highlight the author in author lists? (true/false)s
 highlight_name: true
 ---
 
