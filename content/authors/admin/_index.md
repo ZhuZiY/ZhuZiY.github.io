@@ -36,15 +36,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Communication theory & systems
+    - course: PhD in Commun. theory & systems
+      institution: University of California, San Diego 
+      year: 2023-2027
+    - course: MS in Commun. theory & systems
       institution: University of California, San Diego
-      year: 2027-2021
-    - course: MS in Communication theory & systems
-      institution: University of California, San Diego
-      year: 2023
+      year: 2021-2023
     - course: BSc in Information engineering
       institution: Xi'an Jiaotong University
-      year: 2021
+      year: 2017-2021
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
